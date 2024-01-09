@@ -28,5 +28,4 @@ I'm open to collaboration and always excited about new projects. If you have ide
 
 Share some fun or interesting facts about yourself.
 
-- Facs 1
-- Fact 2
+- Fact 1
